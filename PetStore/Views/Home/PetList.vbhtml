@@ -15,12 +15,12 @@ End If
 
 <form>
 <div class="form-group">
-    <label for="exampleInputEmail1">From Price</label>
-    <input type="number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    <label for="fromPrice">From Price</label>
+    <input type="number" class="form-control" id="fromPrice" aria-describedby="emailHelp">
 </div>
 <div class="form-group">
-    <label for="exampleInputPassword1">To Price</label>
-    <input type="number" class="form-control" id="exampleInputPassword1">
+    <label for="toPrice">To Price</label>
+    <input type="number" class="form-control" id="toPrice">
 </div>
 <div class="form-group">
     <label for="name">Name</label>
