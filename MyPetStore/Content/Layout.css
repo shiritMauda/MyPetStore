@@ -1,0 +1,17 @@
+﻿.startImage {
+    background-image: url("Images/main.png");
+    background-position: center;
+   height:300px;
+    background-size: inherit;
+    background-color: white;
+    position: relative;
+    padding: 0rem;
+}
+
+
+
+.Myjumbotron {
+    padding: 0rem;
+
+}
+
